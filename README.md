@@ -35,8 +35,8 @@ Aqui estão as linguagens e ferramentas com as quais tenho tido contato e desenv
 ### 📈 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elyzel&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyzel&layout=compact&theme=radical" />
 </p>
 
 ---
