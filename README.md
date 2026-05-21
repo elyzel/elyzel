@@ -34,9 +34,7 @@ Aqui estão as linguagens e ferramentas com as quais tenho tido contato e desenv
 
 ### 📈 Estatísticas do GitHub
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=elyzel&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  
+<p align="center">
   <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=elyzel&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </p>
 
