@@ -1,132 +1,49 @@
-# 👨‍💻 Eliseu Oliveira
+# Olá, eu sou o Eliseu Marinho! 👋
 
-## Graduando em Engenharia de Software no Inatel
-
-Sou estudante de Engenharia de Software apaixonado por tecnologia, desenvolvimento de sistemas e resolução de problemas através da programação.
-
-Atualmente estou focado em desenvolver minhas habilidades em:
-- Lógica de Programação
-- C++
-- Desenvolvimento Web
-- Git e GitHub
-- Banco de Dados
-- Projetos Full Stack
-
-Busco uma oportunidade como **Programador Trainee** para evoluir tecnicamente, adquirir experiência prática e contribuir com projetos reais.
+Anfitrião do meu espaço no GitHub. Sou estudante de **Engenharia de Software** e estou focado em construir uma base sólida para iniciar minha carreira como **Estagiário ou Desenvolvedor Trainee**.
 
 ---
 
-## 🚀 Tecnologias em aprendizado
+### 💻 Sobre Mim
 
-<div style="display: inline_block"><br>
-
-<img align="center" alt="C++" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-
-<img align="center" alt="HTML" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-
-<img align="center" alt="CSS" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
-<img align="center" alt="Bootstrap" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-
-<img align="center" alt="Git" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-
-<img align="center" alt="Github" height="40" width="50"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-
-</div>
+- 🎓 Graduando em **Engenharia de Software**.
+- 🚀 Atualmente aprofundando meus conhecimentos em **C++** e **Java**, explorando lógica, estruturas de dados e orientação a objetos.
+- 🎯 Objetivo: Encontrar uma oportunidade de Estágio ou Trainee para aplicar a teoria acadêmica em projetos reais e aprender com profissionais experientes.
+- 🧠 Busco constantemente evoluir minhas habilidades técnicas e interpessoais (soft skills) através de desafios e projetos práticos.
 
 ---
 
-## 📚 Atualmente estudando
+### 🛠️ Tecnologias e Ferramentas
 
-- Estruturas de Dados
-- Desenvolvimento Front-end
-- Versionamento com Git
-- Banco de Dados
-- Desenvolvimento de Interfaces Responsivas
-- Projetos com foco em experiência do usuário
+Aqui estão as linguagens e ferramentas com as quais tenho tido contato e desenvolvido meus projetos acadêmicos e pessoais:
 
----
+| Linguagem / Ferramenta | Nível de Contato / Foco Atual |
+| :--- | :--- |
+| **C++** | Estrutura de dados, lógica e algoritmos |
+| **Java** | Programação Orientada a Objetos (POO) e conceitos de backend |
+| **Git & GitHub** | Controle de versão e organização de repositórios |
 
-## 💡 Projetos em desenvolvimento
+*(Para deixar o visual moderno, podemos adicionar os badges de ícones abaixo)*
 
-### 🔹 SafeVoice
-Projeto voltado para saúde feminina com funcionalidades relacionadas a:
-- ciclo menstrual,
-- autenticação de usuários,
-- interface moderna e acessível.
-
-Tecnologias utilizadas:
-- HTML
-- CSS
-- Bootstrap
-- Supabase
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📈 Estatísticas GitHub
+### 📈 Estatísticas do GitHub
 
-<div align="center">
-
-<a href="https://github.com/SEU-USUARIO">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=tokyonight"/>
-
-</div>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical" />
+</p>
 
 ---
 
-## 🏆 Objetivos Profissionais
+### 🤝 Conecte-se Comigo
 
-✔ Evoluir como desenvolvedor  
-✔ Participar de projetos reais  
-✔ Aprender novas tecnologias  
-✔ Conquistar uma oportunidade como Programador Trainee  
-✔ Construir soluções que impactem pessoas
+Se você é um recrutador, desenvolvedor ou apenas quer trocar uma ideia sobre tecnologia, fique à vontade para entrar em contato:
 
----
-
-## 📫 Contato
-
-<div>
-
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:SEUEMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</div>
-
----
-
-## ⚡ Frase que representa meu momento
-
-> “Transformando aprendizado em projetos e projetos em experiência.”
-
-
-<!--
-**elyzel/elyzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliseu-almeida-marinho-de-oliveira-1a1306227)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliseu.marinho1982@gmail.com)
