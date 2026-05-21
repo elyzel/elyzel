@@ -35,8 +35,8 @@ Aqui estão as linguagens e ferramentas com as quais tenho tido contato e desenv
 ### 📈 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elyzel&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elyzel&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=elyzel&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=elyzel&theme=radical" alt="Dias consecutivos de contribuição" />
 </p>
 
 ---
@@ -45,5 +45,5 @@ Aqui estão as linguagens e ferramentas com as quais tenho tido contato e desenv
 
 Se você é um recrutador, desenvolvedor ou apenas quer trocar uma ideia sobre tecnologia, fique à vontade para entrar em contato:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliseu-almeida-marinho-de-oliveira-1a1306227)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eliseu-marinho)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliseu.marinho1982@gmail.com)
