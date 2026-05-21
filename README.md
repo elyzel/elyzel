@@ -1,6 +1,6 @@
 # Olá, eu sou o Eliseu Marinho! 👋
 
-Anfitrião do meu espaço no GitHub. Sou estudante de **Engenharia de Software** e estou focado em construir uma base sólida para iniciar minha carreira como **Estagiário ou Desenvolvedor Trainee**.
+Sou estudante de **Engenharia de Software** e estou focado em construir uma base sólida para iniciar minha carreira como **Estagiário ou Desenvolvedor Trainee**.
 
 ---
 
