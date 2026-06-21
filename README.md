@@ -21,9 +21,7 @@ Aqui estão as linguagens e ferramentas com as quais tenho tido contato e desenv
 | :--- | :--- |
 | **C++** | Estrutura de dados, lógica e algoritmos |
 | **Java** | Programação Orientada a Objetos (POO) e conceitos de backend |
-| **Git & GitHub** | Controle de versão e organização de repositórios |
-
-*(Para deixar o visual moderno, podemos adicionar os badges de ícones abaixo)*
+| **Git & GitHub** | Controle de versão e organização de repositórios.
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
