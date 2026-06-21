@@ -42,5 +42,5 @@ Aqui estão as linguagens e ferramentas com as quais tenho tido contato e desenv
 
 Se você é um recrutador, desenvolvedor ou apenas quer trocar uma ideia sobre tecnologia, fique à vontade para entrar em contato:
 
-[![LinkedIn](https://www.linkedin.com/in/eliseu-marinho?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliseu-marinho/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliseu.marinho1982@gmail.com)
