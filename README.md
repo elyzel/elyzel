@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJ5OWYzYnRiemlsN3ZtemkyaGcxc2UxMDBnMjBpMzY4ODQ4NHFsMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sRFEa8lbeC7zbcIZZR/giphy.gif" alt="Animated Wallpaper" width="100%" />
-</div>
-
 # Olá, eu sou o Eliseu Marinho! 👋
 
 Sou estudante de **Engenharia de Software** e estou focado em construir uma base sólida para iniciar minha carreira como **Estagiário ou Desenvolvedor Trainee**.
