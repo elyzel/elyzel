@@ -50,3 +50,5 @@ Se você é um recrutador, desenvolvedor ou apenas quer trocar uma ideia sobre t
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliseu-marinho/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliseu.marinho1982@gmail.com)
+
+![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:00DF72&height=100&section=footer)
