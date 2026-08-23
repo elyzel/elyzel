@@ -1,5 +1,5 @@
 <!-- Banner de Ondas (Verde e Roxo) -->
-![Tech Banner](https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,100:00FF66&height=180&section=header&text=Eliseu%20Marinho&fontSize=42&fontColor=00FF66&animation=twinkling)
+![Tech Banner](https://capsule-render.vercel.app/api?type=soft&color=0:8A2BE2,100:00FFFF&height=180&section=header&text=Eliseu%20Marinho&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
 <!-- Efeito Digitando / Desaparecendo em Loop -->
 <p align="center">
