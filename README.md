@@ -1,4 +1,6 @@
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines.gif" width="100%" height="200" style="object-fit: cover;" alt="Data Wave Banner" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/blog-theme/images/header.gif" width="100%" height="200" alt="Tech Banner" />
+</p>
 
 # Olá, eu sou Eliseu Marinho! 👋
 
