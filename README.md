@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/blog-theme/images/header.gif" width="100%" height="200" alt="Tech Banner" />
-</p>
+![Tech Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00599c,100:ED8B00&height=200&section=header&text=Eliseu%20Marinho&fontSize=42&fontColor=ffffff&animation=fadeIn)
 
 # Olá, eu sou Eliseu Marinho! 👋
 
