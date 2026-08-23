@@ -1,5 +1,3 @@
-<img width="500" height="281" alt="giphy" src="https://github.com/user-attachments/assets/5d7ee963-1aa4-47af-ac82-ff9e8e901fd8" />
-
 # Olá, eu sou o Eliseu Marinho! 👋
 
 Sou estudante de **Engenharia de Software** e estou focado em construir uma base sólida para iniciar minha carreira como **Estagiário ou Desenvolvedor Trainee**.
@@ -13,7 +11,9 @@ Sou estudante de **Engenharia de Software** e estou focado em construir uma base
 - 🎯 Objetivo: Encontrar uma oportunidade de Estágio ou Trainee para aplicar a teoria acadêmica em projetos reais e aprender com profissionais experientes.
 - 🧠 Busco constantemente evoluir minhas habilidades técnicas e interpessoais (soft skills) através de desafios e projetos práticos.
 
----
+<img src="[https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI5Xls3sx7IiwyFfadaeLLWrbFiMAJsBuTi_XrtkR5XcTdY2qXNrQNpgXSbHa6DAB2V4EYGHwWuBQHgZXn4xkCd2sGuzedLXeZwHmNsgxcmb1WfjD5wP4Da3En1oyn3yQQSToviEFNkI87bbC0G4F9BZucslZu5QNFAXXyAM3PyPuNewYYxSUDVuwdOxeN/s640/Mercenary%20Garage%20Blog%20Custom%20Motorcycle%20Design%20Kirokaze%20Tired%20Now%208%20Bit%20Anime%20Cyberpunk%20GIF.webp](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDU4dWl5Mjd4ZXV0YWY0MnN6NzVvNXlsZjdnMjBjOG55NzFtNTVmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7b8jdNUoFBdcoILjjv/giphy.gif)" width="100%" />
+
+# Olá, eu sou o Eliseu Marinho! 👋
 
 ### 🛠️ Tecnologias e Ferramentas
 
