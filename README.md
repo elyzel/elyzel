@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/khalil-farashiani/khalil-farashiani/main/assets/banner.gif" width="100%" height="200" style="object-fit: cover;" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines.gif" width="100%" height="200" style="object-fit: cover;" />
 
 # Olá, eu sou Eliseu Marinho! 👋
 
