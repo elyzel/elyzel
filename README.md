@@ -7,9 +7,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00DF72&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Eliseu+Marinho!+%F0%9F%91%8B;Graduando+em+Engenharia+de+Software;Entusiasta+em+Back-end" alt="Typing SVG" />
   </a>
 </p>
-# Olá, eu sou Eliseu Marinho! 👋
-
-Sou estudante de **Engenharia de Software** e estou focado em construir uma base sólida para iniciar minha carreira como **Estagiário ou Desenvolvedor Trainee**.
 
 ---
 
