@@ -1,10 +1,10 @@
 <!-- Banner de Ondas (Verde e Roxo) -->
 ![Header Wave](https://capsule-render.vercel.app/api?type=waving&color=0:7928CA,100:00DF72&height=180&section=header)
 
-<!-- Efeito Digitando / Desaparecendo em Loop -->
+<!-- Efeito Digitando apenas com Nome e Graduação -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00DF72&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Eliseu+Marinho!+%F0%9F%91%8B;Graduando+em+Engenharia+de+Software;Entusiasta+em+Back-end" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00DF72&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Eliseu+Marinho!+%F0%9F%91%8B;Graduando+em+Engenharia+de+Software" alt="Typing SVG" />
   </a>
 </p>
 
