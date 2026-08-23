@@ -1,6 +1,12 @@
-# Olá, eu sou o Eliseu Marinho! 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXJ5OWYzYnRiemlsN3ZtemkyaGcxc2UxMDBnMjBpMzY4ODQ4NHFsMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sRFEa8lbeC7zbcIZZR/giphy.gif" alt="Banner Animado" width="100%" />
 
-Sou estudante de **Engenharia de Software** e estou focado em construir uma base sólida para iniciar minha carreira como **Estagiário ou Desenvolvedor Trainee**.
+  <br />
+  <br />
+
+  <h1>Olá, eu sou o Eliseu Marinho! 👋</h1>
+  <p>Estudante de <b>Engenharia de Software</b> | Focado em <b>C++</b> e <b>Java</b></p>
+</div>
 
 ---
 
@@ -8,7 +14,7 @@ Sou estudante de **Engenharia de Software** e estou focado em construir uma base
 
 - 🎓 Graduando em **Engenharia de Software**.
 - 🚀 Atualmente aprofundando meus conhecimentos em **C++** e **Java**, explorando lógica, estruturas de dados e orientação a objetos.
-- 🎯 Objetivo: Encontrar uma oportunidade de Estágio ou Trainee para aplicar a teoria acadêmica em projetos reais e aprender com profissionais experientes.
+- 🎯 **Objetivo:** Encontrar uma oportunidade de Estágio ou Trainee para aplicar a teoria acadêmica em projetos reais e aprender com profissionais experientes.
 - 🧠 Busco constantemente evoluir minhas habilidades técnicas e interpessoais (soft skills) através de desafios e projetos práticos.
 
 ---
@@ -21,20 +27,24 @@ Aqui estão as linguagens e ferramentas com as quais tenho tido contato e desenv
 | :--- | :--- |
 | **C++** | Estrutura de dados, lógica e algoritmos |
 | **Java** | Programação Orientada a Objetos (POO) e conceitos de backend |
-| **Git & GitHub** | Controle de versão e organização de repositórios.
+| **Git & GitHub** | Controle de versão e organização de repositórios |
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
 
 ---
 
 ### 📈 Estatísticas do GitHub
 
-<p align="center">
+<div align="center">
   <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=elyzel&layout=compact&theme=radical" alt="Linguagens mais usadas" />
-</p>
+</div>
 
 ---
 
@@ -42,5 +52,11 @@ Aqui estão as linguagens e ferramentas com as quais tenho tido contato e desenv
 
 Se você é um recrutador, desenvolvedor ou apenas quer trocar uma ideia sobre tecnologia, fique à vontade para entrar em contato:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliseu-marinho/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eliseu.marinho1982@gmail.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/eliseu-marinho/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:eliseu.marinho1982@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
