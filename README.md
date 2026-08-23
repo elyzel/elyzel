@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines.gif" width="100%" height="200" style="object-fit: cover;" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzh4azI5NHNjazRpdWF6NnV0enF5ajRuc2J4bmd3amNvNTB6eGhzNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o752oeUYz6S2SHi5W/giphy.gif" width="100%" height="200" style="object-fit: cover;" />
 
 # Olá, eu sou Eliseu Marinho! 👋
 
