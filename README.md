@@ -1,4 +1,4 @@
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmZ2NDM0MTg4dmJqaWFvYmxuYW8xaHZ1dmd2cjFhaWp0ZWlqbDV3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lbcLMX9B6sTsGjUmS3/giphy.gif" width="100%" />
+<img width="500" height="281" alt="giphy" src="https://github.com/user-attachments/assets/5d7ee963-1aa4-47af-ac82-ff9e8e901fd8" />
 
 # Olá, eu sou o Eliseu Marinho! 👋
 
